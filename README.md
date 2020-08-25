@@ -1,10 +1,3 @@
-
-Currently working at Centre National de la Recherche Scientifique(CNRS).
-
-Travaille actuellement au Centre National de la Recherche Scientifique (CNRS).
-
-現在 CNRS で働いています。目前在法國國家科學研究中心 (CNRS) 工作。
-
 Familiar with Linux, macOS, Windows (in descending order).
 
 Learning Rust. Using mostly C/C++. Work in Progress:
