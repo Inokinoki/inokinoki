@@ -16,11 +16,9 @@ Learning Rust. Using mostly C/C++. Work in Progress:
 
 Incoming work:
 
-- Write my own Input Method Engine
-- Contribute to [libIME](https://github.com/fcitx/libime)
+- Write my own Input Method Engine, contribute to [libIME](https://github.com/fcitx/libime)
 - Port an embedded system to Raspberry Pi zero W, 2, 3, 4
-- Port [Plasma Mobile](https://www.plasma-mobile.org/) to OnePlus 5
-- Port Window on ARM to OnePlus 5
+- Port [Plasma Mobile](https://www.plasma-mobile.org/) and Window on ARM to OnePlus 5
 - ... too many
 
 You could read [my blog](https://blog.inoki.cc) or follow [@IIInoki](https://twitter.com/IIInoki) on Twitter.
