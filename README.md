@@ -2,14 +2,13 @@ Familiar with Linux, macOS, Windows (in descending order).
 
 Learning Rust. Using mostly C/C++. Work in Progress:
 
-- [PL/0 interpreter in Rust](https://github.com/Inokinoki/PL-0-rs), refering *Compiler Principal* from Tsinghua University Press
+- Writing my own Input Method Engine, and to contribute to [libIME](https://github.com/fcitx/libime)
 - [LoRast](https://github.com/Inokinoki/LoRast), a toolset for LoRa research in Rust
-- Developping [KDE Connect](https://kdeconnect.kde.org/) iOS application
+- Developing [KDE Connect](https://kdeconnect.kde.org/) iOS application
 - Writing [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for [KDE Frameworks](https://kde.org/products/frameworks/)
 
 Incoming work:
 
-- Write my own Input Method Engine, contribute to [libIME](https://github.com/fcitx/libime)
 - Port an embedded system to Raspberry Pi zero W, 2, 3, 4
 - Port [Plasma Mobile](https://www.plasma-mobile.org/) and Windows on ARM to OnePlus 5
 - ... too many
