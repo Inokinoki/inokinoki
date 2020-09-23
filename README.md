@@ -1,5 +1,4 @@
 ![Inoki's github stats](https://github-readme-stats.vercel.app/api?username=inokinoki&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inokinoki&langs_count=8&layout=compac&hide=javascript,html,css)
 
 Familiar with Linux, macOS, Windows (in descending order).
 
