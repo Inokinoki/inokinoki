@@ -1,4 +1,6 @@
-![Inoki's github stats](https://github-readme-stats.vercel.app/api?username=inokinoki&count_private=true&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inokinoki&count_private=true&show_icons=true" alt="github stats" />
+</p>
 
 Familiar with Linux, macOS, Windows (in descending order).
 
@@ -16,6 +18,6 @@ Incoming work 2021:
 - Enable SMP for Raspberry Pis
 - Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5(when I get a new phone TAT)
 
-You could read [my blog](https://blog.inoki.cc) or follow [@IIInoki](https://twitter.com/IIInoki) on Twitter.
-
-Feel free to get in touch with me on Telegram: [https://t.me/IIInoki](https://t.me/IIInoki).
+[![Twitter](https://img.shields.io/badge/@IIInoki-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/IIInoki)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/IIInoki)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=inokinoki)
