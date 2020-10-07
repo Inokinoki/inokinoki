@@ -6,10 +6,8 @@ Familiar with Linux, macOS, Windows (in descending order).
 
 Using mostly C/C++. Work in Progress:
 
-- Writing my own Input Method Engine (or maybe port an IME framework to macOS)
-- Trying to contribute to [libIME](https://github.com/fcitx/libime)
-- [LoRast](https://github.com/Inokinoki/LoRast), a toolset for LoRa research in Rust
-- Developing [KDE Connect](https://kdeconnect.kde.org/) iOS application
+- ~Writing my own Input Method Engine~ porting InputMethod frameworks to macOS
+- Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
 - Writing [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for [KDE Frameworks](https://kde.org/products/frameworks/)
 
 Incoming work 2021:
