@@ -6,9 +6,9 @@ Familiar with Linux, macOS, Windows (in descending order).
 
 Using mostly C/C++. Work in Progress:
 
-- ~Writing my own Input Method Engine~ porting InputMethod frameworks to macOS
-- Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
-- Port Embox to Raspberry Pi 2
+- [ ] Porting InputMethod frameworks to macOS
+- [x] Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
+- [ ] Port Embox to Raspberry Pi 2
 
 Incoming work 2021:
 
