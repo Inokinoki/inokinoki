@@ -8,7 +8,7 @@ Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
 - [x] Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
-- [ ] Port Embox to Raspberry Pi 2
+- [x] Port Embox to Raspberry Pi 2
 
 Incoming work 2021:
 
