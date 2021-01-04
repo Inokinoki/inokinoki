@@ -8,14 +8,15 @@ Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
 - [x] Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
-- [x] Port Embox to Raspberry Pi 2
+- [x] Port Embox to Raspberry Pi 2, 3 (BCM2836, BCM2837)
 
-Incoming work 2021:
+Works in 2021:
 
-- Port Embox to Raspberry Pi 3, 4
-- Enable SMP of Embox for Raspberry Pis
-- Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5/Nokia 8
-- ~Writing [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for [KDE Frameworks](https://kde.org/products/frameworks/)~ Wait for KF6
+- [ ] Port Embox to Raspberry Pi 4 (BCM2711, VC VI)
+- [ ] Enable SMP of Embox for Raspberry Pis
+- [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5/Nokia 8
+- [ ] Write [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for KF6
+- [ ] XNU on Raspi 3 (maybe)
 
 [![Twitter](https://img.shields.io/badge/@IIInoki-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/IIInoki)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/IIInoki)
