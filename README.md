@@ -7,13 +7,7 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
-- [x] Developing [KDE Connect](https://kdeconnect.kde.org/) iOS/iPad OS application
-- [x] Port Embox to Raspberry Pi 2, 3 (BCM2836, BCM2837)
-
-Works in 2021:
-
-- [ ] Port Embox to Raspberry Pi 4 (BCM2711, VC VI)
-- [ ] Enable SMP of Embox for Raspberry Pis
+- [ ] Full understand Raspberry Pi 4 (BCM2711, VC VI)
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5/Nokia 8
 - [ ] Write [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for KF6
 - [ ] XNU on Raspi 3 (maybe)
