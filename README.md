@@ -7,7 +7,7 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
-- [ ] Full understand Raspberry Pi 4 (BCM2711, VC VI)
+- [ ] Full understand Raspberry Pi 4 (BCM2711, VC VI, GIC-400)
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5/Nokia 8
 - [ ] Write [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for KF6
 - [ ] XNU on Raspi 3 (maybe)
