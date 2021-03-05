@@ -12,7 +12,7 @@ Using mostly C/C++. Work in Progress:
 - [ ] Write [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for KF6
 - [ ] XNU on Raspi 3 (maybe)
 - [ ] A ray-tracing implementation
-- [ ] A software-emulated FPU
+- [x] A partially functional software-emulated FPU in Rust
 
 [![Twitter](https://img.shields.io/badge/@IIInoki-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/IIInoki)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/IIInoki)
