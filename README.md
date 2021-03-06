@@ -7,6 +7,7 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
+- [ ] Writing a macOS IME based on libpinyin
 - [ ] Full understand Raspberry Pi 4 (BCM2711, VC VI, GIC-400)
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and WoA to OnePlus 5/Nokia 8
 - [ ] Write [a set of example](https://github.com/Inokinoki/kde-frameworks-tutorial) for KF6
