@@ -11,7 +11,7 @@ Using mostly C/C++. Work in Progress:
 - [x] A [ray-tracing implementation in ASL](https://github.com/Inokinoki/acpi-raytracer) + [SoftFPU in ASL](https://github.com/Inokinoki/acpi-softfpu)!
 - [x] A partially functional [software-emulated FPU in Rust](https://github.com/Inokinoki/softfpu-rs)
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) to Lumia 950 and WoA to ~OnePlus 5/Nokia 8~ Nexus 5X
-- [ ] XNU on Raspi 3 (maybe)
+- [ ] XNU on Raspi 3 [Project](https://github.com/Inokinoki/xnu-bcm2837-hackintosh) **Support me plz!**
 
 [![Twitter](https://img.shields.io/badge/@IIInoki-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/IIInoki)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/IIInoki)
