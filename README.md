@@ -7,9 +7,6 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
-- [x] Writing a [macOS IME based on libpinyin](https://github.com/Open-Source-IME-framework-on-Mac/macos-libpinyin)
-- [x] A [ray-tracing implementation in ASL](https://github.com/Inokinoki/acpi-raytracer) + [SoftFPU in ASL](https://github.com/Inokinoki/acpi-softfpu)!
-- [x] A partially functional [software-emulated FPU in Rust](https://github.com/Inokinoki/softfpu-rs)
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) to Lumia 950 and WoA to ~OnePlus 5/Nokia 8~ Nexus 5X
 - [ ] XNU on Raspi 3 [Project](https://github.com/Inokinoki/xnu-bcm2837-hackintosh) **Support me plz!**
 
