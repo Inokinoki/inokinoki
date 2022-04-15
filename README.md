@@ -7,7 +7,7 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
-- [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) to Nokia 8/Lumia 950 and WoA to Nokia 8/Nexus 5X
+- [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) to Lumia 950 and WoA to Nokia 8
 - [ ] XNU on Raspi 3 [Project](https://github.com/Inokinoki/xnu-bcm2837-hackintosh)
 
 [![Twitter](https://img.shields.io/badge/@IIInoki-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/IIInoki)
