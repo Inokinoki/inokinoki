@@ -7,7 +7,9 @@ Familiar with Linux, macOS, Windows (in descending order).
 Using mostly C/C++. Work in Progress:
 
 - [ ] Porting InputMethod frameworks to macOS
-- [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) to Lumia 950 and WoA to Nokia 8
+- [x] Port [Plasma Mobile](https://www.plasma-mobile.org/) and Ubuntu Touch to Nokia 8
+- [ ] Port WoA to Nokia 8
+- [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and Ubuntu Touch to Lumia 950
 - [ ] XNU on Raspi 3 [Project](https://github.com/Inokinoki/xnu-bcm2837-hackintosh)
 - [ ] A mysterical project
 - [x] [QEFIVar](https://github.com/Inokinoki/qefivar) and [QEFI Entry Manager](https://github.com/Inokinoki/QEFIEntryManager)
