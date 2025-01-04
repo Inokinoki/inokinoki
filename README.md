@@ -6,7 +6,7 @@ Familiar with Linux, macOS, Windows (in descending order).
 
 Using mostly C/C++. Work in Progress:
 
-- [ ] Porting InputMethod frameworks to macOS
+- [ ] Porting InputMethod frameworks to macOS ([fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) done)
 - [x] Port [Plasma Mobile](https://www.plasma-mobile.org/) and Ubuntu Touch to Nokia 8
 - [ ] Port WoA to Nokia 8
 - [ ] Port [Plasma Mobile](https://www.plasma-mobile.org/) and Ubuntu Touch to Lumia 950
